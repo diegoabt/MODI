@@ -4,7 +4,7 @@
 
 ___
 
-**🚧 Important note 🚧:** MODI is currently under reconstruction, thus you may find some inconsistencies in its documentation. In case you have problems using the code, please do not esitate to contact us.
+**🚧 Important note 🚧:** MODI is currently under reconstruction, thus you may find some inconsistencies in its documentation. In case you have problems using the code, please do not hesitate to contact us.
 
 **MODI** (**M**ulticommodity **O**ptimal transport **D**ynamics on **I**mages) is a Python implementation of the algorithms used in:
 
